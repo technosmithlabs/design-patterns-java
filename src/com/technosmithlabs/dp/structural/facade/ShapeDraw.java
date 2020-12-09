@@ -1,4 +1,5 @@
 package com.technosmithlabs.dp.structural.facade;
 
-public interface ShapeDrwa {
+public interface ShapeDraw {
+    public void drawMyShape();
 }
